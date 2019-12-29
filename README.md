@@ -1,5 +1,5 @@
-# IWCMAR3
-3rd International Workshop on Computational Models of Affordance in Robotics
+# HFR 2020
+13th International Workshop on Human-Friendly Robotics
 
 # Generating website
 
